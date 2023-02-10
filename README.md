@@ -1,6 +1,6 @@
 # Restaurant-finalproject-UPSchool
 
-Java Bootcamp Bitirme Projesi
+Java Bootcamp Bitirme Projesi ( OOP - Multithreading )
 
 Bu projede bir lokantayı simule edeceksiniz. Lokanta tabi olarak aynı anda pek çok müşteriye hizmet vermektedir. Müşterilerden istekleri alan garsonlar, vardır. İstekler yemek ve içecekten oluşabilir. Müşteri en çok iki yemek ve bir içecek ısmarlayabilir. Garsonlar istekleri mutfakta çalışan şeflere iletir. Tabi olarak lokantadaki garson sayısı şef sayısından fazladır ve sıklıkla da müşteri sayısı garson sayısından fazla olmaktadır. Dolayısıyla müşterilerin istekleri garsonlar tarafından şeflere iletildiğinde şefler gelme sırasına göre yemek ve içecekleri hazırlarlar. Yemek ve içeceklerin hazırlanması zaman alacaktır. Bu sürede müşteriler masalarında beklerler.
 
