@@ -13,3 +13,7 @@ Müşteriler belli aralıklarla lokantaya gelirler. Garsonlar ve şefler birbirl
 •	Yemek ve içecekleri belirleyin ve tasarlayın.
 •	Yemek ve içeceklerin hazırlanma ve tüketilme sürelerini mili second cinsinden belirleyin.
 •	Müşteri, şef ve garsonun yaptıklarının konsola basılacak basit loglar ile görülmesini sağlayın.
+
+
+![UML Diagram](images/UML.png)
+
